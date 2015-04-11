@@ -1,7 +1,7 @@
 {
-  "name": "mup",
+  "name": "mupl",
   "version": "0.9.7",
-  "description": "Production Quality Meteor Deployments",
+  "description": "Quick Linux Meteor Deployments as a non-privileged user",
   "dependencies": {
     "async": "^0.9.0",
     "cjson": "0.3.x",
@@ -12,12 +12,12 @@
     "uuid": "1.4.x"
   },
   "bin": {
-    "mup": "./bin/mup"
+    "mupl": "./bin/mupl"
   },
-  "author": "Arunoda Susiripala <arunoda.susiripala@gmail.com>",
+  "author": "Anbuselvan Periannan <anbuselvan.p@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/arunoda/meteor-up.git"
+    "url": "git://github.com/anbuselvan/meteor-up-lite.git"
   },
   "license": "MIT"
 }
