@@ -7,7 +7,7 @@ var ActionsRegistry = require('../lib/actions');
 var helpers = require('../lib/helpers');
 require('colors');
 
-console.log('\nMeteor Up: Production Quality Meteor Deployments'.bold.blue);
+console.log('\nMeteor Up Lite: Quick Linux Meteor Deployments as a non-privileged user (eg. ubuntu)'.bold.blue);
 console.log('------------------------------------------------\n'.bold.blue);
 
 var action = process.argv[2];
