@@ -2,13 +2,14 @@
 #### Quick Linux Meteor Deployments as a non-privileged user (eg. ubuntu) with no ssl support (not recommended for production).
 
 ## Disclaimer
-All credits should go to [Arunoda](https://github.com/arunoda) and his team for his excellent contribution to the Meteor Community. This is a lite version of Meteor-Up (*mup*) and please feel free to share your comments, suggestions and issues on [github](https://github.com/anbuselvan/meteor-up-lite/issues). To prevent conflict with the original version the command will be *mupl*, so you can install and use both versions.
+All credits should go to [Arunoda](https://github.com/arunoda) and his team for his excellent contribution to the Meteor Community. This is a lite version of Meteor-Up (**mup**) and please feel free to share your comments, suggestions and issues on [github](https://github.com/anbuselvan/meteor-up-lite/issues). To prevent conflict with the original version the command will be **mupl**, so you can install and use both versions.
 
 #### Prerequisite
-Follow the steps from 'Additional Resources' section to pre-install Nginx before using *mupl* to configure and start the web server using port 80.
+Follow the steps from **'Additional Resources'** section to pre-install Nginx before using **mupl** to configure and start the web server on port 80.
 
 Your meteor app will be deployed in the following path:
-*/home/ubuntu/meteor/<your meteor app>*
+
+    /home/ubuntu/meteor/<your meteor app>
 
 ### Installation
 
@@ -74,3 +75,5 @@ Please follow the setup instructions from [Meteor Up](https://github.com/arunoda
 ### Additional Resources
 
 * [Using Meteor Up Lite with NginX vhosts](https://github.com/arunoda/meteor-up/wiki/Using-Meteor-Up-with-NginX-vhosts)
+* [Deploy Meteor on Ubuntu 12.04 x64 LTS on EC2](http://tech.exponential.io/meteor/deploy-meteor-ubuntu-12-04-x64-lts-ec2)
+* [How To Deploy a Meteor.js Application on Ubuntu 14.04 with Nginx](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-meteor-js-application-on-ubuntu-14-04-with-nginx)
