@@ -33,6 +33,7 @@ Please follow the setup instructions from [Meteor Up](https://github.com/arunoda
   ],
 
   // Install MongoDB on the server. Does not destroy the local MongoDB on future setups
+  // Note: Make sure to set it to false after first time
   "setupMongo": true,
 
   // WARNING: Node.js is required! Only skip if you already have Node.js installed on server.
