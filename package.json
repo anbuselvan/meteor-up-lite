@@ -1,6 +1,6 @@
 {
   "name": "mupl",
-  "version": "0.9.8",
+  "version": "0.9.9",
   "description": "Quick Linux Meteor Deployments as a non-privileged user",
   "dependencies": {
     "async": "^0.9.0",
