@@ -2,7 +2,7 @@
 #### Quick Linux Meteor Deployments as a non-privileged user (eg. ubuntu) with no ssl support (not recommended for production).
 
 ## Disclaimer
-All credits should go to Arunoda and his team for his excellent contribution to the Meteor Community. This is a lite version of Meteor-Up (*mup*) and please feel free to share your comments, suggestions and issues on [github](https://github.com/anbuselvan/meteor-up-lite/issues). To prevent conflict with the original version the command will be *mupl*, so you can install and use both versions.
+All credits should go to [Arunoda](https://github.com/arunoda) and his team for his excellent contribution to the Meteor Community. This is a lite version of Meteor-Up (*mup*) and please feel free to share your comments, suggestions and issues on [github](https://github.com/anbuselvan/meteor-up-lite/issues). To prevent conflict with the original version the command will be *mupl*, so you can install and use both versions.
 
 #### Prerequisite
 Follow the steps from 'Additional Resources' section to pre-install Nginx before using *mupl* to configure and start the web server using port 80.
