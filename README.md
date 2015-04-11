@@ -10,7 +10,11 @@ Follow the steps from 'Additional Resources' section to pre-install Nginx before
 Your meteor app will be deployed in the following path:
 */home/ubuntu/meteor/<your meteor app>*
 
-### Setup
+### Installation
+
+    npm install -g mupl
+
+### Deployment Setup
 
 Please follow the setup instructions from [Meteor Up](https://github.com/arunoda/meteor-up), and ignore all the ssl related configurations.
 
