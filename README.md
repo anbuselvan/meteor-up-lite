@@ -61,6 +61,7 @@ Please follow the setup instructions from [Meteor Up](https://github.com/arunoda
   // UPSTART_UID must be set
   "env": {
     "PORT": 3000,
+    "UPSTART_UID": "ubuntu",
     "ROOT_URL": "http://myapp.com",
     "MONGO_URL": "mongodb://localhost:27017/MyApp",
     "MAIL_URL": "smtp://postmaster%40myapp.mailgun.org:user@smtp.mailgun.org:587/"
